@@ -1,4 +1,4 @@
-                  Exercicios em JavaScript
+**Primeiros Exercícios em JavaScript**
 
 ## Sobre o Projeto
 
