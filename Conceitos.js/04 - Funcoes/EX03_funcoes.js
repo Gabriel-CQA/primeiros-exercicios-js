@@ -1,4 +1,4 @@
 function gerarValor(nome,cpf,email) {
-       return 'Dados: ' + nome + cpf + email
+       return 'Dados: ' + nome + cpf
 }
-console.log(gerarValor(' Gabriel',' 123456789',' gabriel@gmail.com '))
+console.log(gerarValor(' Gabriel',' 123456789'))
