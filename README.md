@@ -35,13 +35,15 @@ Este repositório reúne meus primeiros exercícios em **JavaScript**, organizad
 
 1. **Clone** este repositório:
 
-``git clone + url = https://github.com/Gabriel-CQA/primeiros-exercicios-js.git``
+```bash
+git clone https://github.com/Gabriel-CQA/primeiros-exercicios-js.git
+```
 
 2. **Acesse a pasta**:
-
-``cd primeiros-exercicios-js``
-
+```bash
+cd primeiros-exercicios-js
+```
 3. **Execute o arquivo** com Node.js:
-
-``node Conceitos.js``
-
+```bash
+node Conceitos.js
+```
