@@ -29,7 +29,7 @@ Este repositório reúne meus primeiros exercícios em **JavaScript**, organizad
 
 3. Checar se o ``Node.js`` foi instalado corretamente: utilizando o comando ``Windows + R`` e escreva ``cmd`` após isso escreva no terminal ``node --version`` e aperte **Enter**.
 
-4. Ter o ``GIT`` instalado no seu computador para facilitar a exportação para a sua máquina.
+4. Ter o ``GIT`` instalado no seu computador para facilitar a exportação para o seu computador.
 
 ## Como executar caso queira treinar também:
 
@@ -42,4 +42,9 @@ https://code.visualstudio.com/download
 
 ```bash
 git clone https://github.com/Gabriel-CQA/primeiros-exercicios-js.git
+```
+
+3. **Certifique-se novamente** de ter o Git instalado no seu computador. Link para download abaixo:
+```bash
+https://git-scm.com/downloads
 ```
