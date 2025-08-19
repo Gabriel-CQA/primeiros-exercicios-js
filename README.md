@@ -33,17 +33,13 @@ Este repositório reúne meus primeiros exercícios em **JavaScript**, organizad
 
 ## Como executar caso queira treinar também:
 
-1. **Clone** este repositório:
+1. **Tenha uma IDE definida** deixei o link do **VsCode** abaixo:
+```bash
+https://code.visualstudio.com/download
+```
+
+2. **Clone** o link do repositório abaixo e cole no seu terminal:
 
 ```bash
 git clone https://github.com/Gabriel-CQA/primeiros-exercicios-js.git
-```
-
-2. **Acesse a pasta**:
-```bash
-cd primeiros-exercicios-js
-```
-3. **Execute o arquivo** com Node.js:
-```bash
-node Conceitos.js
 ```
