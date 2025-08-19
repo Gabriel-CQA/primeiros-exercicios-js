@@ -29,7 +29,7 @@ Este repositório reúne meus primeiros exercícios em **JavaScript**, organizad
 
 3. Checar se o ``Node.js`` foi instalado corretamente: utilizando o comando ``Windows + R`` e escreva ``cmd`` após isso escreva no terminal ``node --version`` e aperte **Enter**.
 
-4. Ter o ``GIT`` instalado no seu computador para facilitar a exportação para a sua máquina.
+4. Ter o ``GIT`` instalado no seu computador para facilitar a importação para a sua máquina.
 
 ## Como executar caso queira treinar também:
 
