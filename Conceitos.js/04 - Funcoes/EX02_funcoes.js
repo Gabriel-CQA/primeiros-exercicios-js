@@ -8,4 +8,4 @@ function gerarValors(nome,cpf,email) {
        
 
 }
-gerarValor(' Gabriel',123456789,' abriel@gmail.com')
+gerarValor(' Gabriel',123456789,' gabriel@gmail.com')
